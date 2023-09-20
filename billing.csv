@@ -1,0 +1,4 @@
+billno,cid,cname,pid,pname,category,quantity,sprice,total
+52,101,sandy,404,"Brand White T-Shirt",women,1,500,500
+53,101,sandy,407,"NYC Blue T-Shirt",men,6,400,2400
+54,101,sandy,405,"Quote T-Shirt",women,3,400,1200
